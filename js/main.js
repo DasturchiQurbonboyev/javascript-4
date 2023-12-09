@@ -234,7 +234,21 @@
 
 // for 18
 
+// let x = +prompt("x ni kiriting ")
 
+// let divisors = Array();
+
+// let sum = 0;
+
+// for (let i = 1; i <= x; i++) {
+//     if (x % i === 0) {
+//         divisors.push(i);
+//         sum += i;
+//     }
+// }
+
+// console.log(divisors);
+// console.log(sum);
 
 // for 19
 
