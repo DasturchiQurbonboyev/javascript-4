@@ -222,6 +222,15 @@
 
 // for 17
 
+// let A = +prompt("A ni kiriting:");
+// let B = +prompt("B ni kiriting:");
+
+// for (let i = A; i <= B; i++) {
+//     for (let j = 1; j <= i - A + 1; j++) {
+//         console.log(i);
+//     }
+// }
+
 
 // for 18
 
