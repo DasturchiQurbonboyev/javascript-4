@@ -252,8 +252,35 @@
 
 // for 19
 
+// let n = +prompt("Istalgan butun sonni kiriting (n > 1):");
 
+// if (n <= 1) {
+//     console.log("Noto'g'ri qiymat kiritildi. n > 1 bo'lishi kerak.");
+// } else {
+//     let x = true;
+
+//     for (let i = 2; i <= Math.sqrt(n); i++) {
+//         if (n % i === 0) {
+//             x = false;
+//             break;
+//         }
+//     }
+
+//     if (x) {
+//         console.log(`${n} tub son.`);
+//     } else {
+//         console.log(`${n} tub emas.`);
+//     }
+// }
 
 // for 20
 
+// let N = +prompt("N ni kiriting:");
 
+// for (let i = 1; i <= N; i++) {
+//     let line = '';
+//     for (let j = 1; j <= i; j++) {
+//         line += j + ' ';
+//     }
+//     console.log(line.trim());
+// }
