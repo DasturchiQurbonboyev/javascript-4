@@ -196,6 +196,16 @@
 
 // for 15
 
+// let N = +prompt("N ni kiriting:");
+// let K = +prompt("K ni kiriting:");
+
+// let S = 0;
+
+// for ( i= 1; i<= N; i++){
+//     console.log(i);
+//     S += i**K;
+// }
+// console.log(S);
 
 
 // for 16
