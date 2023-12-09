@@ -178,8 +178,20 @@
 // }
 
 // console.log(S);
+
 // for 14
 
+// let n = +prompt("n ni kiriting:");
+// let C=1;
+// let S=0;
+
+// for (let i=1; i<= n; i++){
+//     C *= i;
+//     S +=C;
+
+//     console.log(C);
+// }
+// console.log(S);
 
 
 // for 15
