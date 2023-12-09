@@ -284,3 +284,66 @@
 //     }
 //     console.log(line.trim());
 // }
+
+
+
+// while 1
+
+// let A = +prompt("A ni kiriting:");
+// let B = +prompt("B ni kiriting (A > B):");
+
+// if (A <= B) {
+//     console.log("Noto'g'ri qiymatlar kiritildi. A > B bo'lishi kerak.");
+// } else {
+//     let empty = A ;
+    
+//     while (empty >= B) {
+//         empty = empty - B;
+//     }
+
+//     console.log(empty);
+// }
+
+
+// while 2
+
+// let A =  +prompt("A ni kiriting:");
+// let B = +prompt("B ni kiriting (A > B):");
+
+// if (A <= B) {
+//     console.log("Noto'g'ri qiymatlar kiritildi. A > B bo'lishi kerak.");
+// } else {
+//     let part = A;
+//     let count = 0;
+
+//     while (part >= B) {
+//         part -= B;
+//         count++;
+//     }
+
+//     console.log(count);
+// }
+
+// while 3
+
+// let n = +prompt("Istalgan butun sonni kiriting (n > 0):");
+
+// if (n > 0 && n % 3 === 0) {
+//     console.log("3 - ning darajasi");
+// } else {
+//     console.log("3 - ning darajasi emas");
+// }
+
+// while 4
+
+
+
+// while 5
+
+
+
+// while 1
+// while 1
+// while 1
+// while 1
+// while 1
