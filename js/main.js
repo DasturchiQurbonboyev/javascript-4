@@ -210,7 +210,15 @@
 
 // for 16
 
+// let N = +prompt("N ni kiriting:");
 
+// let S = 0;
+
+// for ( i= 1; i<= N; i++){
+//     console.log(i);
+//     S += i**i;
+// }
+// console.log(S);
 
 // for 17
 
